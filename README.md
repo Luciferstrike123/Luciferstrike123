@@ -6,11 +6,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luciferstrike123&label=Profile%20views&color=0e75b6&style=flat" alt="luciferstrike123" /> </p>
 
-- 🔭 I’m currently working on **some web apps**
+- 🔭 I’m currently working on <del>**some web apps**</del> nothing
 
-- 🌱 I’m currently learning **Nodejs**
+- 🌱 I’m currently <del>learning **Nodejs**</del> relaxing
 
-- ⚡ Fun fact **Bananas are berries, but strawberries aren’t!**
+- ⚡ I use Arch, btw
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
